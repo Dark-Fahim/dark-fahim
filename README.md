@@ -23,7 +23,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 [![Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,vite,nextjs,ts,nodejs,express,postgres)](https://skillicons.dev)
-[![Tools, ](https://skillicons.dev/icons?i=figma,vscode,ps)](https://skillicons.dev)
+
 
 <!-- 🔥🔥🔥 ADDING YOUR CUSTOM SKILL SVG HERE 🔥🔥🔥 -->
 
