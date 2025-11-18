@@ -1,0 +1,116 @@
+<!-- mern-skills-my-skills.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="380" viewBox="0 0 920 380" role="img" aria-label="My Skills">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#071029"/>
+      <stop offset="100%" stop-color="#0b1220"/>
+    </linearGradient>
+
+    <linearGradient id="barGrad" x1="0" x2="1">
+      <stop offset="0%" stop-color="#00d4ff"/>
+      <stop offset="100%" stop-color="#7b61ff"/>
+    </linearGradient>
+
+    <style>
+      .title { font: 700 34px 'Segoe UI', Roboto; fill: white; }
+      .subtitle { font: 400 14px 'Segoe UI', Roboto; fill: #9fb0d6; }
+      .skill { font: 600 14px 'Segoe UI', Roboto; fill: #dfefff; }
+      .pct { font: 600 13px 'Segoe UI', Roboto; fill: #cfe7ff; }
+    </style>
+  </defs>
+
+  <rect width="100%" height="100%" rx="12" fill="url(#bg)"/>
+
+  <g transform="translate(36,34)">
+    <text class="title">My Skills</text>
+
+    <text class="subtitle" y="72">
+      HTML • CSS • Tailwind • Bootstrap • JavaScript • TypeScript • React • Node • Express • MongoDB
+    </text>
+  </g>
+
+  <!-- skills start -->
+  <g transform="translate(36,110)">
+    
+    <!-- HTML -->
+    <g transform="translate(0,0)">
+      <text class="skill" x="0" y="18">HTML</text>
+      <rect x="150" y="4" width="650" height="18" rx="9" fill="#0e2740"/>
+      <rect x="150" y="4" width="585" height="18" rx="9" fill="url(#barGrad)"/>
+      <text class="pct" x="830" y="18">90%</text>
+    </g>
+
+    <!-- CSS -->
+    <g transform="translate(0,38)">
+      <text class="skill" x="0" y="18">CSS</text>
+      <rect x="150" y="4" width="650" height="18" rx="9" fill="#0e2740"/>
+      <rect x="150" y="4" width="560" height="18" rx="9" fill="#40c4ff"/>
+      <text class="pct" x="830" y="18">86%</text>
+    </g>
+
+    <!-- Tailwind -->
+    <g transform="translate(0,76)">
+      <text class="skill" x="0" y="18">Tailwind CSS</text>
+      <rect x="150" y="4" width="650" height="18" rx="9" fill="#0e2740"/>
+      <rect x="150" y="4" width="545" height="18" rx="9" fill="#38bdf8"/>
+      <text class="pct" x="830" y="18">84%</text>
+    </g>
+
+    <!-- Bootstrap -->
+    <g transform="translate(0,114)">
+      <text class="skill" x="0" y="18">Bootstrap</text>
+      <rect x="150" y="4" width="650" height="18" rx="9" fill="#0e2740"/>
+      <rect x="150" y="4" width="520" height="18" rx="9" fill="#7952b3"/>
+      <text class="pct" x="830" y="18">80%</text>
+    </g>
+
+    <!-- JavaScript -->
+    <g transform="translate(0,152)">
+      <text class="skill" x="0" y="18">JavaScript</text>
+      <rect x="150" y="4" width="650" height="18" rx="9" fill="#0e2740"/>
+      <rect x="150" y="4" width="585" height="18" rx="9" fill="#ffd36a"/>
+      <text class="pct" x="830" y="18">90%</text>
+    </g>
+
+    <!-- TypeScript -->
+    <g transform="translate(0,190)">
+      <text class="skill" x="0" y="18">TypeScript (basic)</text>
+      <rect x="150" y="4" width="650" height="18" rx="9" fill="#0e2740"/>
+      <rect x="150" y="4" width="390" height="18" rx="9" fill="#3178c6"/>
+      <text class="pct" x="830" y="18">60%</text>
+    </g>
+
+    <!-- React -->
+    <g transform="translate(0,228)">
+      <text class="skill" x="0" y="18">React</text>
+      <rect x="150" y="4" width="650" height="18" rx="9" fill="#0e2740"/>
+      <rect x="150" y="4" width="585" height="18" rx="9" fill="#61dafb"/>
+      <text class="pct" x="830" y="18">90%</text>
+    </g>
+
+    <!-- Node -->
+    <g transform="translate(0,266)">
+      <text class="skill" x="0" y="18">Node</text>
+      <rect x="150" y="4" width="650" height="18" rx="9" fill="#0e2740"/>
+      <rect x="150" y="4" width="520" height="18" rx="9" fill="#8fdc68"/>
+      <text class="pct" x="830" y="18">80%</text>
+    </g>
+
+    <!-- Express -->
+    <g transform="translate(0,304)">
+      <text class="skill" x="0" y="18">Express</text>
+      <rect x="150" y="4" width="650" height="18" rx="9" fill="#0e2740"/>
+      <rect x="150" y="4" width="455" height="18" rx="9" fill="#bfa7ff"/>
+      <text class="pct" x="830" y="18">70%</text>
+    </g>
+
+    <!-- MongoDB -->
+    <g transform="translate(0,342)">
+      <text class="skill" x="0" y="18">MongoDB</text>
+      <rect x="150" y="4" width="650" height="18" rx="9" fill="#0e2740"/>
+      <rect x="150" y="4" width="500" height="18" rx="9" fill="#4dbb61"/>
+      <text class="pct" x="830" y="18">78%</text>
+    </g>
+
+  </g>
+</svg>
