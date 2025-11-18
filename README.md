@@ -39,7 +39,7 @@
 
 <!-- 🔥🔥🔥 ADDING YOUR CUSTOM SKILL SVG HERE 🔥🔥🔥 -->
 
-## 🚀 My Skills (Interactive SVG)
+## 🚀 My Skills
 
 <p align="center">
   <img src="./my-skills.svg" width="100%" />
