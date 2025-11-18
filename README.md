@@ -2,9 +2,9 @@
 <p align="center">
   <img src="./banner.png" width="100%" />
 </p>
-
 <h1 align="center">Hi 👋, I'm Kamrul Hasan Fahim</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">About me</h3>
+<p align="left">I’m a passionate MERN Stack developer who loves building fast, modern, and user-friendly web applications. I work with React on the frontend and Node, Express, and MongoDB on the backend. I enjoy creating clean UI, solving real-world problems, and continuously learning new technologies to improve my craft.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dark-fahim&label=Profile%20views&color=0e75b6&style=flat" alt="dark-fahim" /> </p>
 
